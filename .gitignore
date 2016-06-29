@@ -1,6 +1,8 @@
 # Built application files
 *.apk
 *.ap_
+gradle/
+
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -38,3 +40,5 @@ captures/
 
 # Keystore files
 *.jks
+
+.idea/
