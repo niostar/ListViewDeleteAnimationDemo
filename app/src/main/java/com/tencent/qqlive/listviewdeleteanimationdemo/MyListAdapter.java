@@ -87,7 +87,7 @@ public class MyListAdapter extends BaseAdapter{
                 }
             }
         });
-        valueAnimator.setDuration(300);
+        valueAnimator.setDuration(100);
         valueAnimator.start();
     }
 
